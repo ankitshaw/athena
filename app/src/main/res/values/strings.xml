@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Athena</string>
+    <string name="send">Send</string>
+    <string name="text_hint">Say something…</string>
+    <string name="sample">Sample text</string>
+    <string name="title_activity_main2">Main2Activity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="title_activity_splash">Splash</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
